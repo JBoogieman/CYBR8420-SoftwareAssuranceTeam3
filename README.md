@@ -15,7 +15,7 @@ Semester Project for CYBR 8420 Software Assurance Team 3
 | Ayden Riddle | Project Manager | [@AyRidd03](https://github.com/AyRidd03) |
 | Justin Brueggemann | Technical Lead | [@JBoogieman](https://github.com/JBoogieman) |
 | Isaiah James | Reviewer / QA | [@isaiahjames11](https://github.com/isaiahjames11) |
-| Sean Anderson | Documentation | |
+| Sean Anderson | Documentation | [@SeanAnderson0](https://github.com/SeanAnderson0) |
 | Sewhenu Ayeni | Team Lead | [@Sewhenu-Ayeni](https://github.com/Sewhenu-Ayeni) |
 
 ---

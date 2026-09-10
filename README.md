@@ -5,7 +5,7 @@ Keycloak Team: https://github.com/JBoogieman/CYBR8420-SoftwareAssuranceTeam3
 
 | Member | Role | GitHub |
 |---|---|---|
-| _Ayden Riddle_ | Project Manager |  |
+| _Ayden Riddle_ | Project Manager | @AyRidd03 https://github.com/AyRidd03 |
 | Justin _Brueggemann_ | Technical Lead | @JBoogieman https://github.com/JBoogieman |
 | _Isaiah James_ | Reviewer | @isaiahjames11 https://github.com/isaiahjames11 |
 | _Sean Anderson_ | Documentation | |

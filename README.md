@@ -17,3 +17,12 @@ Semester Project for CYBR 8420 Software Assurance Team 3
 | Sewhenu Ayeni | Team Lead | [@Sewhenu-Ayeni](https://github.com/Sewhenu-Ayeni) |
 
 ---
+
+## Team Communication
+
+**Primary channel:** Discord server
+
+| Meeting | Day | Time |
+|---|---|---|
+| Primary Huddle | Friday | 2:00 PM |
+| Secondary / overflow | Monday | 4:15 PM |
